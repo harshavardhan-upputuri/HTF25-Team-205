@@ -65,4 +65,5 @@ In this Readme, you will find a guide on how to fork this Repository, add files 
 </ul>
 </details>
 
+<<<<<<< HEAD
 ## Thanks for participating!
