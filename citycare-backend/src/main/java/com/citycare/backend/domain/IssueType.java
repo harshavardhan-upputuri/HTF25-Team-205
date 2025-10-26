@@ -1,0 +1,16 @@
+package com.citycare.backend.domain;
+
+public enum IssueType {
+    POTHOLE,
+    BROKEN_STREETLIGHT,
+    GARBAGE_OVERFLOW,
+    WATER_LEAK,
+    ROAD_DAMAGE,
+    VANDALISM,
+    NOISE_POLLUTION,
+    TRAFFIC_SIGNAL_ISSUE,
+    PUBLIC_TOILET_ISSUE,
+    ILLEGAL_PARKING,
+    STREET_FLOODING,
+    OTHER
+}
